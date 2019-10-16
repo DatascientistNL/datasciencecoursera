@@ -1,1 +1,1 @@
-# datascience for legal specialist
+# datascience for legal topics
